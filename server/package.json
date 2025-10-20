@@ -1,0 +1,23 @@
+{
+  "name": "tienda-boyka",
+  "version": "1.0.0",
+  "description": "tienda",
+  "license": "ISC",
+  "author": "jonathan cabrera",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.1"
+  }
+}
