@@ -1,0 +1,33 @@
+{
+  title: 'Alien el octavo pasajero 222',
+  releaseYear: '1997',
+  genre: 'Ciencia ficción/Terror',
+  director: 'Ridley Scott',
+  actors: 'Bolaji Badejo,Sigourney Weave,Tom Skerritt,Helen Horton,John Hurt',
+  rating: '8.5',
+  descrition: 'Un grupo de exsoldados y un biólogo se enfrentarán a los cazadores más letales de todo el universo, quienes han alterado sus cuerpos con el ADN de otras especies para hacer desaparecer a la raza humana.',
+  image: 'movie/YoLUTFQCyPlWjvv5axaZvECL.png'
+}
+
+
+_id
+68eff9f09a4de90472880361
+title
+"El Depredador"
+releaseYear
+2018
+genre
+" Acción/Ciencia ficción"
+director
+"Shane Black"
+actors
+"Boyd Holbrook,Olivia Munn,Jacob Tremblay,Brian A. Prince,Trevante Rhod…"
+descrition
+"Un grupo de exsoldados y un biólogo se enfrentarán a los cazadores más
+ letales de todo el universo, quienes han alterado sus cuerpos con el ADN de otras especies para hacer desaparecer a la raza humana"
+rating
+"7.5"
+image
+"movie/tD5B76zmf4DvH1UphRnLwPzD.jpg"
+__v
+0
